@@ -13,12 +13,12 @@ function App() {
 
           {/* image and name */}
           <div className="flex space-x-2 items-center">
-            <img className="w-12 h-12 rounded-full" src="/profileImages/handsome.jpg"></img>
-            <span className='font-semibold text-lg'>Chayanin Suatap 610631100</span>
+            <img className="w-12 h-12 rounded-full" src="/profileimages/Heart.jpg"></img>
+            <span className='font-semibold text-lg'>kunasin techasueb 630610721</span>
           </div>
 
           {/* status message */}
-          <p>Quiz ง่ายจังเลยครับ ขอยาก ๆ กว่านี้ได้ไหม #261207</p>
+          <p>Quiz ยากจังเลยครับ ของ่าย ๆ กว่านี้ได้ไหมครับ #261207</p>
 
           {/* like section */}
           <div className='flex items-center'>
